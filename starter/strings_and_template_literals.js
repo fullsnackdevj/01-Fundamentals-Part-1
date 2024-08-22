@@ -24,3 +24,10 @@ console.log(jonas);
 //we can also use backticks in a regular strings
 
 console.log(`Just a regular string..`);
+
+// using backticks in multi-line strings:
+
+console.log(`Here
+    is 
+    a 
+    multiline`);

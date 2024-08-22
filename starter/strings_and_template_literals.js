@@ -20,3 +20,7 @@ const year = 2037;
 const jonas = `Im ${firstName}, a ${year - birthYear} year old ${job}!`;
 
 console.log(jonas);
+
+//we can also use backticks in a regular strings
+
+console.log(`Just a regular string..`);
